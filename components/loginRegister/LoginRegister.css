@@ -1,0 +1,21 @@
+/* #outlined-password-input{
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    margin-top: 30px;
+} */
+
+.login-form {
+    justify-content: center;
+    min-height: 90vh;
+}
+
+.button-block {
+    width: 100%;
+}
+
+.login-background {
+    justify-content: center;
+    min-height: 30vh;
+    padding: 50px;
+}

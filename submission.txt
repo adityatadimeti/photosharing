@@ -1,0 +1,45 @@
+Project #8 - Submission form - Aditya Tadimeti
+* 
+* Story number and name:  3 - Visibility control on photos
+* Story points:  4
+* Brief description to see the story in action:
+* Choose a photo and click the upload button. Answer the prompt — clicking cancel on the shareable list shares the photo with everyone. Clicking Ok leads you to a text box and an Add User and Complete Upload Pic button. Type the full name of users you would like to share with (case sensitive) in the text box, click add user, and then click complete upload pic. Then you can log out and log into the specified users to see the semiprivate photo.
+
+Clicking Complete Upload Pic without typing any users/not pressing Add User causes the photo to only be viewable by the user who uploaded it.  
+* 
+* Total Story Points: 4
+* 
+* Marketing Video URL (ensure permissions are set to public viewing): https://www.youtube.com/watch?v=kYSqZesN2LE
+* 
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? No
+* 
+* Instructions for Grading (should be easy to run app from new machine): None
+
+
+
+* Story number and name:  5 - Deleting Comments, Photos, and Users
+* Story points:  4
+* Brief description to see the story in action:
+* A user can delete comments (on their own post, or on other posts) and photos they upload. A user can click the delete user button on the toolbar, which deletes any comments or likes made on any previous post, and logs the user out. 
+* 
+* Total Story Points: 4
+* 
+* Marketing Video URL (ensure permissions are set to public viewing): https://www.youtube.com/watch?v=kYSqZesN2LE
+* 
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? No
+* 
+* Instructions for Grading (should be easy to run app from new machine): None
+
+
+* Story number and name:  6 - Photo like votes
+* Story points:  4
+* Brief description to see the story in action:
+* A user can click the like button on any post, which changes the like count posted below the picture and also changes the button to be an unlike button. Navigate to another page on the photo sharing app, then navigate back to see the order of the photos change. Photos with the most likes are at the top, and photos with the same # of likes are sorted by reverse chronological order.
+* 
+* Total Story Points: 4
+* 
+* Marketing Video URL (ensure permissions are set to public viewing): https://www.youtube.com/watch?v=kYSqZesN2LE
+* 
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? No
+* 
+* Instructions for Grading (should be easy to run app from new machine): None
